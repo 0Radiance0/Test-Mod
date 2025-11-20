@@ -13,5 +13,15 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Flamethrower",
+		"unitType": "Melee",
+		"uniqueTo": "Aliens",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 70,
+		"range": 1,
+		"cost": 100
 	}
 ]
