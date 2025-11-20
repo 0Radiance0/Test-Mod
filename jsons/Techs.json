@@ -29,6 +29,7 @@
 			},
       {
         "name": "Pot",
+	    "row": 2,
         "replaces": "Pottery",
         "uniqueTo": "Aliens",
         "prerequisites": ["Agriculture"],
